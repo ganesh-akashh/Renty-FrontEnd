@@ -15,7 +15,7 @@
 
 2. The BackEnd GitHub Repository URL of the Application can be found [here](insert GitHub repository link here)
 
-2. You can access the live website [here]():
+2. You can access the live website [here](https://renty-front-end.vercel.app/):
    - Frontend hosted on [Vercel](https://vercel.com/)
    - Spring Boot backend hosted on [Render](https://render.com/)
    - MySQL database hosted on [Railway](https://railway.yap/)
