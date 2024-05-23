@@ -113,14 +113,14 @@ cd server
 
 ## <a name="#bestpractises">🕸️ Best Practises Used</a>
 
-1. 👉 **Custom Hooks**.
-2. 👉 **Code Splitting**.
-3. 👉 **Well Organized Folder Structure**.
-4. 👉 **Global State Management using Redux**.
-5. 👉 **Responsiveness and Accessibility**.
-6. 👉 **Protected Routes**.
-7. 👉 **Pagination and Sorting**.
-8. 👉 **Filter Data**.
+1.  **Custom Hooks**.
+2.  **Code Splitting**.
+3.  **Well Organized Folder Structure**.
+4.  **Global State Management using Redux**.
+5.  **Responsiveness and Accessibility**.
+6.  **Protected Routes**.
+7.  **Pagination and Sorting**.
+8.  **Filter Data**.
 
 
 
