@@ -11,9 +11,9 @@
 
 ## 🖥️ Links
 
-1. The FrontEnd GitHub Repository URL of the Application can be found [here](insert GitHub repository link here)
+1. The FrontEnd GitHub Repository URL of the Application can be found [here](https://github.com/ganesh-akashh/Renty-FrontEnd.git)
 
-2. The BackEnd GitHub Repository URL of the Application can be found [here](insert GitHub repository link here)
+2. The BackEnd GitHub Repository URL of the Application can be found [here](https://github.com/ganesh-akashh/Rently-Backend.git)
 
 2. You can access the live website [here](https://renty-front-end.vercel.app/):
    - Frontend hosted on [Vercel](https://vercel.com/)
